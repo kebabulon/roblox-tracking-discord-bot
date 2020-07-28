@@ -1,0 +1,7 @@
+{
+  "discordBotClientToken": "your discord bot token",
+  "whoCanUseBot": "everyone",
+  "refreshingInterval": 5,
+  "sentTrackingMessagesChannel": "channel id number, must be a number",
+  "mentionUser": true
+}
