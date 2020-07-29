@@ -9,3 +9,5 @@ Hello! Heres a quick guide how to use this bot.
 2. After that just run the robloxUserTracker.exe and the bot is done!
 
 # commands
+.track "roblox profile link" - start tracking user.
+.stoptrack - stops tracking.
