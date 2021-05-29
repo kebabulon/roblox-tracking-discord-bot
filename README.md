@@ -8,7 +8,7 @@ Hello! Heres a quick guide how to use this bot.
 	
 	"refreshingInterval": this is delay of checking user's status, i recommend set it to 5.
 	
-	"sentTrackingMessagesChannel": channel id there you want bot to send messages in, to get it copy "#channelName" and after that type "/" and paste the channel. You should get id of the channel.
+	"sentTrackingMessagesChannel": channel id there you want bot to send messages in, just google on how to get the id of a channel.
 	
 	"mentionUser": set this to true if you want bot to mention you when user status changes.
 	
